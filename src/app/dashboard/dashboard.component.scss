@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+}
+td, th {
+  width:auto !important ;
+}
+.mat-button-toggle{
+background-color: darkgrey;
+}
+.mat-button-toggle-checked{
+  background-color: blue;
+  color:white;
+}
+
+// .wordBreak{
+//   word-wrap: break-word;
+//   //  max-width:60px;
+//    padding: 5px;;
+// }
